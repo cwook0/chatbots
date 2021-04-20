@@ -10,5 +10,3 @@ git checkout master
 
 git add README.txt
 git push origin master
-
-git pull origin master
