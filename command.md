@@ -1,3 +1,7 @@
+#git commands
+
+run "git bash"
+
 git init
 git add README.txt
 git commit -m "add readme"
